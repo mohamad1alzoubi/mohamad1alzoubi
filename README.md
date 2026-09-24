@@ -1,6 +1,6 @@
 # Mohamad Alzoubi
 
-**PhD Candidate in Information Science and Technology at Iscte – Instituto Universitário de Lisboa**\
+**PhD Candidate in Information Science and Technology at ISCTE – Instituto Universitário de Lisboa**\
 Federated Learning · Network Security · Reproducible Cybersecurity Research
 
 ---
