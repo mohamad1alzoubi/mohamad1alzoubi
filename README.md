@@ -1,6 +1,6 @@
 # Mohamad Alzoubi
 
-**PhD Candidate in Information Science and Technology at Iscte – Instituto Universitário de Lisboa**\
+**PhD Candidate in Information Science and Technology at ISCTE – Instituto Universitário de Lisboa**\
 Federated Learning · Network Security · Reproducible Cybersecurity Research
 
 ---
@@ -36,9 +36,3 @@ Research artifacts are available through the archived Zenodo release.
 - **Research writing and versioning:** LaTeX, Git
 
 ---
-
-## Academic Profiles
-
-- **Zenodo:** [Coded evidence base (concept DOI)](https://doi.org/10.5281/zenodo.22119316)
-
-Further academic profiles will be added once their public URLs are verified.
